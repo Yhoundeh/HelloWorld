@@ -4,7 +4,7 @@ This repository is a simple Hello World program written in python. This program 
 
 This program is a proof of concept and a template for my other repositories. It also serves as my first experiment with GitHub.
 
-[Software Demo Video](https://youtu.be/7Fb9zP1v4jI)
+[Software Demo Video](http://youtu.be/wrjQOWHPOSA?hd=1)
 
 # Development Environment
 
